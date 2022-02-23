@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        body {
+            margin: 0;
+            font-family: sans-serif;
+        }
+        
+        .topnav {
+            display: flex;
+            align-items: center;
+            padding: 20px;
+        }
+        
+        nav {
+            margin-right: 80px;
+            flex: 1;
+            text-align: right;
+        }
+        
+        nav ul {
+            display: inline-block;
+            list-style-type: none;
+        }
+        
+        nav ul li {
+            display: inline-block;
+            margin: 20px;
+        }
+        
+        a {
+            text-decoration: none;
+            color: #9cafb7;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        
+        a:hover {
+            color: white;
+        }
+        
+        .row {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+        
+        .col2 {
+            flex-basis: 50%;
+            min-width: 300px;
+            margin: auto;
+        }
+        
+        .col2 h1 {
+            font-size: 50px;
+            padding-left: 25%;
+            line-height: 15px;
+        }
+        
+        .col3 {
+            flex-basis: 30%;
+            min-width: 250px;
+            margin-bottom: 10px;
+            display: inline-block;
+        }
+        
+        .col3 input {
+            width: 80%;
+            padding: 25px;
+        }
+        
+        .header {
+            margin: 50px;
+            background-repeat: no-repeat;
+            padding: 25px;
+            border-color: black;
+        }
+    </style>
+</head>
+
+<body style="background-color: #192841; color: #9cafb7;">
+
+    <div class="topnav">
+        <nav>
+            <ul>
+                <li><a href="main.html">HomePage</a></li>
+                <li><a href="index.html">Travel</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div class="header">
+        <div class="row">
+            <div class="col2">
+                <h1>Find The Information</h1>
+                <h1>Enjoy The Trip!</h1>
+            </div>
+            <div class="col2">
+                <div class="col3">
+                    <input type="text" placeholder="From">
+                </div>
+                <div class="col3">
+                    <input type="text" placeholder="To">
+                </div>
+
+                <div class="col3">
+
+                    <input type="number" style="width:20%;" placeholder="Passenger No.">
+                    <input type="date" style="width:20%;">
+                    <input type="date" style="width:20%;">
+
+                </div><br>
+                <button type="submit" style="padding: 20px; margin-left: 20%;">Submit</button>
+
+            </div>
+
+        </div>
+    </div>
+    <br>
+    <br>
+    <div class="row">
+        <input type="text" placeholder="The Place You are Visiting, Is It Safe?" style="width: 60%; padding: 20px;">
+    </div>
+    <div class="row">
+        <button type="search" style="padding: 5px;">Search</button> </div>
+
+    </div>
+</body>
+
+</html>

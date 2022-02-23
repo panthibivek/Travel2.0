@@ -1,0 +1,62 @@
+<html>
+
+<head>
+    <style>
+        .header {
+            max-width: 1300px;
+            margin: auto;
+        }
+        
+        .row {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+        
+        .col2 {
+            flex-basis: 50%;
+            min-width: 300px;
+        }
+        
+        .col2 img {
+            max-width: 100%;
+            padding: 50px 0;
+        }
+    </style>
+
+    <title>
+        Country Profile
+    </title>
+
+</head>
+
+<body>
+    <div class="header">
+        Country's Profile
+    </div>
+    The Country You Searched was:
+    <h5 class="page-header">{{ country }}</h5><br> It's score according to our model is:
+    <h1 class="page-header">{{ name }}</h1>Safety Score is calculated on basis of number of cases, vaccinated people and other many criterias.
+    <div class="row">
+        <div class="col2">
+            <img src="graphs/FL_cases.png" alt="FL cases">
+        </div>
+        <div class="col2">
+            <img src="graphs/FL_deaths.png" alt="FL deaths">
+        </div>
+    </div>
+    <div class="row">
+        <div class="col2">
+            <img src="graphs/Sweden_cases.png" alt="Sweden_cases">
+        </div>
+        <div class="col2">
+            <img src="graphs/Sweden_deaths.png" alt="Sweden Deaths">
+        </div>
+    </div>
+    <div class="header">
+        Stay Safe! Thank You!
+    </div>
+</body>
+
+</html>

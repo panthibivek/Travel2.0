@@ -1,0 +1,287 @@
+state,predicted_data,id
+AK,3,1
+AL,5,2
+AR,3,3
+AZ,3,4
+CA,3,5
+CO,2,6
+CT,2,7
+DC,2,8
+DE,3,9
+FL,5,10
+GA,3,11
+HI,3,12
+IA,3,13
+ID,3,14
+IL,3,15
+IN,3,16
+KS,3,17
+KY,3,18
+LA,5,19
+MA,2,20
+MD,2,21
+ME,2,22
+MI,2,23
+MN,2,24
+MO,3,25
+MP,2,26
+MS,5,27
+MT,3,28
+NC,3,29
+ND,2,30
+NE,2,31
+NH,2,32
+NJ,2,33
+NM,3,34
+NV,3,35
+NY,2,36
+OH,2,37
+OK,3,38
+OR,3,39
+PA,2,40
+PR,3,41
+RI,3,42
+SC,3,43
+SD,3,44
+TN,3,45
+TX,3,46
+UT,3,47
+VA,3,48
+VT,2,49
+WA,3,50
+WI,2,51
+WV,3,52
+WY,3,53
+Afghanistan,2,54
+Africa,3,55
+Albania,2,56
+Algeria,2,57
+Andorra,2,58
+Angola,2,59
+Anguilla,2,60
+Antigua and Barbuda,2,61
+Argentina,3,62
+Armenia,2,63
+Aruba,3,64
+Asia,3,65
+Australia,3,66
+Austria,3,67
+Azerbaijan,3,68
+Bahamas,2,69
+Bahrain,3,70
+Bangladesh,3,71
+Barbados,3,72
+Belarus,2,73
+Belgium,3,74
+Belize,3,75
+Benin,2,76
+Bermuda,2,77
+Bhutan,2,78
+Bolivia,3,79
+Bonaire Sint Eustatius and Saba,2,80
+Bosnia and Herzegovina,3,81
+Botswana,2,82
+Brazil,3,83
+British Virgin Islands,2,84
+Brunei,2,85
+Bulgaria,3,86
+Burkina Faso,2,87
+Burundi,2,88
+Cambodia,3,89
+Cameroon,2,90
+Canada,3,91
+Cape Verde,2,92
+Cayman Islands,3,93
+Central African Republic,2,94
+Chad,2,95
+Chile,3,96
+China,3,97
+Colombia,3,98
+Comoros,2,99
+Congo,2,100
+Cook Islands,2,101
+Costa Rica,2,102
+Cote d'Ivoire,3,103
+Croatia,3,104
+Cuba,3,105
+Curacao,3,106
+Cyprus,3,107
+Czechia,3,108
+Democratic Republic of Congo,3,109
+Denmark,3,110
+Djibouti,2,111
+Dominica,2,112
+Dominican Republic,3,113
+Ecuador,3,114
+Egypt,3,115
+El Salvador,3,116
+Equatorial Guinea,3,117
+Eritrea,2,118
+Estonia,3,119
+Eswatini,2,120
+Ethiopia,3,121
+Europe,3,122
+European Union,3,123
+Faeroe Islands,3,124
+Fiji,2,125
+Finland,3,126
+France,3,127
+French Polynesia,2,128
+Gabon,2,129
+Gambia,2,130
+Georgia,3,131
+Germany,3,132
+Ghana,2,133
+Gibraltar,2,134
+Greece,3,135
+Greenland,2,136
+Grenada,2,137
+Guatemala,3,138
+Guernsey,3,139
+Guinea,3,140
+Guinea-Bissau,2,141
+Guyana,2,142
+Haiti,3,143
+High income,3,144
+Honduras,2,145
+Hong Kong,3,146
+Hungary,2,147
+Iceland,2,148
+India,3,149
+Indonesia,3,150
+International,3,151
+Iran,3,152
+Iraq,2,153
+Ireland,3,154
+Isle of Man,2,155
+Israel,3,156
+Italy,3,157
+Jamaica,2,158
+Japan,3,159
+Jersey,3,160
+Jordan,3,161
+Kazakhstan,3,162
+Kenya,3,163
+Kiribati,2,164
+Kosovo,3,165
+Kuwait,2,166
+Kyrgyzstan,3,167
+Laos,2,168
+Latvia,3,169
+Lebanon,3,170
+Lesotho,2,171
+Liberia,2,172
+Libya,3,173
+Liechtenstein,3,174
+Lithuania,3,175
+Low income,3,176
+Lower middle income,3,177
+Luxembourg,3,178
+Macao,3,179
+Madagascar,2,180
+Malawi,3,181
+Malaysia,3,182
+Maldives,3,183
+Mali,2,184
+Malta,3,185
+Marshall Islands,2,186
+Mauritania,2,187
+Mauritius,2,188
+Mexico,3,189
+Micronesia (country),2,190
+Moldova,2,191
+Monaco,2,192
+Mongolia,3,193
+Montenegro,3,194
+Montserrat,2,195
+Morocco,3,196
+Mozambique,2,197
+Myanmar,2,198
+Namibia,2,199
+Nauru,2,200
+Nepal,3,201
+Netherlands,3,202
+New Caledonia,2,203
+New Zealand,3,204
+Nicaragua,2,205
+Niger,2,206
+Nigeria,3,207
+North America,3,208
+North Macedonia,3,209
+Northern Cyprus,3,210
+Norway,3,211
+Oceania,3,212
+Oman,2,213
+Pakistan,3,214
+Palestine,3,215
+Panama,3,216
+Papua New Guinea,2,217
+Paraguay,3,218
+Peru,3,219
+Philippines,3,220
+Pitcairn,2,221
+Poland,3,222
+Portugal,3,223
+Qatar,3,224
+Romania,3,225
+Russia,3,226
+Rwanda,2,227
+Saint Kitts and Nevis,2,228
+Saint Lucia,2,229
+Saint Vincent and the Grenadines,2,230
+Samoa,2,231
+San Marino,3,232
+Sao Tome and Principe,2,233
+Saudi Arabia,3,234
+Senegal,2,235
+Serbia,3,236
+Seychelles,2,237
+Sierra Leone,2,238
+Singapore,2,239
+Sint Maarten (Dutch part),2,240
+Slovakia,3,241
+Slovenia,3,242
+Solomon Islands,2,243
+Somalia,2,244
+South Africa,3,245
+South America,3,246
+South Korea,3,247
+South Sudan,2,248
+Spain,3,249
+Sri Lanka,3,250
+Sudan,2,251
+Suriname,3,252
+Sweden,2,253
+Switzerland,3,254
+Syria,2,255
+Taiwan,3,256
+Tajikistan,2,257
+Tanzania,3,258
+Thailand,3,259
+Timor,2,260
+Togo,2,261
+Tokelau,2,262
+Tonga,2,263
+Trinidad and Tobago,3,264
+Tunisia,3,265
+Turkey,3,266
+Turkmenistan,2,267
+Turks and Caicos Islands,2,268
+Tuvalu,2,269
+Uganda,2,270
+Ukraine,3,271
+United Arab Emirates,3,272
+United Kingdom,3,273
+United States,3,274
+Upper middle income,3,275
+Uruguay,3,276
+Uzbekistan,3,277
+Vanuatu,2,278
+Vatican,2,279
+Venezuela,2,280
+Vietnam,3,281
+Wallis and Futuna,2,282
+World,3,283
+Yemen,2,284
+Zambia,3,285
+Zimbabwe,3,286
